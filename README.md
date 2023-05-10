@@ -7,8 +7,12 @@ Hi there 👋
 
 ### Connect with me on:
 <p align="left">
-<a href="https://linkedin.com/in/tasansal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tasansal" height="30" width="40" /></a>
-<a href="https://twitter.com/tunapedia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tasansal" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/tasansal/" target="_blank">
+<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/social/linkedin.svg" alt="Linkedin" style="vertical-align:top; margin:4px">
+</a>
+<a href="https://twitter.com/tunapedia" target="_blank">
+<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/social/twitter.svg" alt="Twitter" style="vertical-align:top; margin:4px">
+</a>
 </p>
 
 ### GitHub Stats:
