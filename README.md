@@ -16,4 +16,7 @@ Hi there 👋
 </p>
 
 ### GitHub Stats:
-<div align="left"> <img src="https://github-readme-streak-stats.herokuapp.com?user=tasansal&theme=neon" /> </div>
+<div align="left">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=tasansal&theme=neon" />
+<img src="https://github-readme-stats.vercel.app/api?username=tasansal&&theme=dark&show_icons=true" />
+</div>
