@@ -1,4 +1,11 @@
+# Altay Sansal
+### A.I. Developer, Geophysicist, and Software Engineer
+[![LinkedIn](https://img.shields.io/static/v1?label=&message=LinkedIn&color=0077B5&style=flat-square&logo=linkedin)](https://www.linkedin.com/in/tasansal)
+[![Twitter](https://img.shields.io/twitter/follow/tunapedia?logo=twitter&style=flat-square)](https://twitter.com/tunapedia)
+
 ### Hi there 👋
+- 🔭 I’m currently working on big data engineering tasks, and building A.I. models for energy.
+- 💬 Ask me about any Machine Learning task, Geoscience, and the Energy Industry.
 
 <!--
 **tasansal/tasansal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
