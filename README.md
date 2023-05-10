@@ -7,6 +7,8 @@
 - 🔭 I’m currently working on big data engineering tasks, and building A.I. models for energy.
 - 💬 Ask me about any Machine Learning task, Geoscience, and the Energy Industry.
 
+<div align="left"> <img src="https://github-readme-streak-stats.herokuapp.com?user=tasansal&theme=neon" /> </div>
+
 <!--
 **tasansal/tasansal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
