@@ -3,7 +3,7 @@
 
 Hi there 👋
 - 🔭 I’m currently working on big data engineering tasks, and building A.I. models for energy.
-- 💬 Ask me about any Machine Learning task, Geoscience, and the Energy Industry.
+- 💬 Ask me about any Machine Learning, Geoscience, and the Energy Industry.
 
 ### Connect with me on:
 <p align="left">
