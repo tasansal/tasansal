@@ -1,5 +1,5 @@
 # Altay Sansal
-### A.I. Developer, Geophysicist, and Software Engineer
+### Full Stack A.I. Developer and Geophysicist
 
 Hi there 👋
 - 🔭 I’m currently working on big data engineering, building A.I. models, and building applications for energy industry.
