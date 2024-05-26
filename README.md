@@ -2,7 +2,7 @@
 ### Full Stack A.I. Developer and Geophysicist
 
 Hi there 👋
-- 🔭 I’m currently working on big data engineering, building A.I. models, and building applications for energy industry.
+- 🔭 I’m currently working on big data engineering, training A.I. models, building and deploying applications for energy industry in Vision, NLP, and time-series data.
 - 💬 Ask me about any Machine Learning, GenAI, Python, Geoscience, and the Energy Industry.
 - 🧑🏻‍💻 I am the lead developer and maintainer following OSS projects: [`TGSAI/mdio-python`][mdio-github] and [`TGSAI/segy`][segy-github].
 - 🫱🏻‍🫲🏽 Contributed to other OSS projects; i.e. [`zarr-developers/zarr-python`][zarr-github], [`langchain-ai/langchain`][langchain-github], [`fsspec/gcsfs`][gcsfs-github].
