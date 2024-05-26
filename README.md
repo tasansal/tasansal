@@ -2,12 +2,17 @@
 ### A.I. Developer, Geophysicist, and Software Engineer
 
 Hi there 👋
-- 🔭 I’m currently working on big data engineering tasks, and building A.I. models for energy.
+- 🔭 I’m currently working on big data engineering, building A.I. models, and building applications for energy industry.
+- 💬 Ask me about any Machine Learning, GenAI, Python, Geoscience, and the Energy Industry.
 - 🧑🏻‍💻 I am the lead developer and maintainer following OSS projects: [`TGSAI/mdio-python`][mdio-github] and [`TGSAI/segy`][segy-github].
-- 💬 Ask me about any Machine Learning, Geoscience, and the Energy Industry.
+- 🫱🏻‍🫲🏽 Contributed to other OSS projects; i.e. [`zarr-developers/zarr-python`][zarr-github], [`langchain-ai/langchain`][langchain-github], [`fsspec/gcsfs`][gcsfs-github].
+- 🫱🏻‍🫲🏽 Contributed to the energy community via Special Interest Group about ML and A.I. with workshops, events.
 
 [mdio-github]: https://github.com/TGSAI/mdio-python
 [segy-github]: https://github.com/TGSAI/segy
+[zarr-github]: https://github.com/zarr-developers/zarr-python
+[langchain-github]: https://github.com/langchain-ai/langchain
+[gcsfs-github]: https://github.com/fsspec/gcsfs
 
 Select Publications:
 - 📄 `2024` [Encoding the Subsurface in 3D with Seismic][seismic-vit-mae3d] (Pre-Print, accepted to IMAGE 24 conference)
