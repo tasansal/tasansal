@@ -6,13 +6,15 @@ Hi there 👋
 - 💬 Ask me about any Machine Learning, GenAI, Python, Geoscience, and the Energy Industry.
 - 🧑🏻‍💻 I am the lead developer and maintainer following OSS projects: [`TGSAI/mdio-python`][mdio-github] and [`TGSAI/segy`][segy-github].
 - 🫱🏻‍🫲🏽 Contributed to other OSS projects; i.e. [`zarr-developers/zarr-python`][zarr-github], [`langchain-ai/langchain`][langchain-github], [`fsspec/gcsfs`][gcsfs-github].
-- 🫱🏻‍🫲🏽 Contributed to the energy community via Special Interest Group about ML and A.I. with workshops, events.
+- 🫱🏻‍🫲🏽 Contributed to the energy community via Special Interest Group about ML and A.I. with workshops, events; i.e. [GITC 2021], [GITC 2022].
 
 [mdio-github]: https://github.com/TGSAI/mdio-python
 [segy-github]: https://github.com/TGSAI/segy
 [zarr-github]: https://github.com/zarr-developers/zarr-python
 [langchain-github]: https://github.com/langchain-ai/langchain
 [gcsfs-github]: https://github.com/fsspec/gcsfs
+[gitc 2021]: https://www.linkedin.com/pulse/geophysics-cloud-gitc-back-eduardo-alvarez/
+[gitc 2022]: https://www.gshtx.org/Public/SharedContent/Events/Event_Display.aspx?EventKey=5c1a972f-9f8e-4aea-88db-c955d5e25ac2
 
 Select Publications:
 - 📄 `2024` [Encoding the Subsurface in 3D with Seismic][seismic-vit-mae3d] (Pre-Print, accepted to IMAGE 24 conference)
