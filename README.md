@@ -13,6 +13,7 @@ Select Publications:
 - 📄 `2021` [Earth Model Building in Real-Time with an Automated Machine Learning Framework – A Midland Basin Example][qearth-realtime]
 - 📄 `2021` [Novel machine learning workflow for rock property prediction in the geologically complex presalt Santos basin, Brazil][qearth]
 - 📄 `2020` [Seeing-Ahead-of-the-Bit: A Game Changer Enabled by Machine Learning][qearth-ahead-bit]
+- 📄 `2015` [Deghosting Ultra High Resolution 3D Geo Hazard Data][seismic-broadband]
 
 [seismic-vit-mae3d]: https://arxiv.org/abs/2403.13593
 [saltnet]: https://library.seg.org/doi/10.1190/tle42060390.1
@@ -20,6 +21,7 @@ Select Publications:
 [qearth-realtime]: https://library.seg.org/doi/10.15530/urtec-2021-5659
 [qearth]: https://library.seg.org/doi/10.1190/segam2021-3594813.1
 [qearth-ahead-bit]: https://onepetro.org/ARMAUSRMS/proceedings-abstract/ARMA20/All-ARMA20/448810
+[seismic-broadband]: https://www.earthdoc.org/content/papers/10.3997/2214-4609.201413244
 
 Patents:
 - 📜 [Earth modeling methods using machine learning][qearth-patent1], US20210326721A1
