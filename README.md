@@ -7,7 +7,7 @@ Hi there 👋
 - 💬 Ask me about any Machine Learning, Geoscience, and the Energy Industry.
 
 Select Publications:
-- 📄 `2024` (PRE-PRINT) [Encoding the Subsurface in 3D with Seismic][seismic-vit-mae3d]
+- 📄 `2024` [Encoding the Subsurface in 3D with Seismic][seismic-vit-mae3d] (Pre-Print, accepted to IMAGE 24 conference)
 - 📄 `2023` [Toward generalized models for machine-learning-assisted salt interpretation in the Gulf of Mexico][saltnet]
 - 📄 `2023` [MDIO: Open-source format for multidimensional energy data][mdio]
 - 📄 `2021` [Earth Model Building in Real-Time with an Automated Machine Learning Framework – A Midland Basin Example][qearth-realtime]
