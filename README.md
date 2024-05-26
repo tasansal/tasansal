@@ -3,8 +3,11 @@
 
 Hi there 👋
 - 🔭 I’m currently working on big data engineering tasks, and building A.I. models for energy.
-- 🧑🏻‍💻 I am the lead developer and maintainer following OSS projects: `TGSAI/mdio-python` and `TGSAI/segy`.
+- 🧑🏻‍💻 I am the lead developer and maintainer following OSS projects: [`TGSAI/mdio-python`][mdio-github] and [`TGSAI/segy`][segy-github].
 - 💬 Ask me about any Machine Learning, Geoscience, and the Energy Industry.
+
+[mdio-github]: https://github.com/TGSAI/mdio-python
+[segy-github]: https://github.com/TGSAI/segy
 
 Select Publications:
 - 📄 `2024` [Encoding the Subsurface in 3D with Seismic][seismic-vit-mae3d] (Pre-Print, accepted to IMAGE 24 conference)
