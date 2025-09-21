@@ -2,7 +2,7 @@
 ### Full Stack A.I. Developer and Geophysicist
 
 Hi there 👋
-- 🔭 I’m currently working on big data engineering, training A.I. models, building and deploying applications for energy industry in Vision, NLP, and time-series data.
+- 🔭 I’m currently working on training AI models, big data engineering, building and deploying applications for the energy industry in Vision, NLP, and time-series data.
 - 💬 Ask me about any Machine Learning, GenAI, Python, Geoscience, and the Energy Industry.
 - 🧑🏻‍💻 I am the lead developer and maintainer following OSS projects: [`TGSAI/mdio-python`][mdio-github] and [`TGSAI/segy`][segy-github].
 - 🫱🏻‍🫲🏽 Contributed to other OSS projects; i.e. [`zarr-developers/zarr-python`][zarr-github], [`langchain-ai/langchain`][langchain-github], [`fsspec/gcsfs`][gcsfs-github].
@@ -25,6 +25,8 @@ Select Publications:
 - 📄 `2021` [Novel machine learning workflow for rock property prediction in the geologically complex presalt Santos basin, Brazil][qearth]
 - 📄 `2020` [Seeing-Ahead-of-the-Bit: A Game Changer Enabled by Machine Learning][qearth-ahead-bit]
 - 📄 `2015` [Deghosting Ultra High Resolution 3D Geo Hazard Data][seismic-broadband]
+- 
+<a href="https://scholar.google.com/citations?user=JSWspwQAAAAJ&hl=en" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar" style="vertical-align: top; margin: 4px;"></a>
 
 [vit-seismic-scaling]: https://www.tgs.com/hubfs/2025%20IMAGE%20Preliminary/IMAGE25_How_ViTs_Scale_on_Seismic_Sansal.pdf
 [seismic-vit-mae3d]: https://onepetro.org/SEGAM/proceedings-abstract/IMAGE24/IMAGE24/SEG-2024-4098021/621324
