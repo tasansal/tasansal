@@ -17,7 +17,8 @@ Hi there 👋
 [gitc 2022]: https://www.gshtx.org/Public/SharedContent/Events/Event_Display.aspx?EventKey=5c1a972f-9f8e-4aea-88db-c955d5e25ac2
 
 Select Publications:
-- 📄 `2024` [Encoding the Subsurface in 3D with Seismic][seismic-vit-mae3d] (Pre-Print, accepted to IMAGE 24 conference)
+- 📄 `2025` [How ViTs scale on seismic data: a study on model and data trade-offs][vit-seismic-scaling]  (Presented at IMAGE 25 conference, DOI TBD)
+- 📄 `2024` [Encoding the Subsurface in 3D with Seismic][seismic-vit-mae3d], [Preprint][seismic-vit-mae3d-preprint]
 - 📄 `2023` [Toward generalized models for machine-learning-assisted salt interpretation in the Gulf of Mexico][saltnet]
 - 📄 `2023` [MDIO: Open-source format for multidimensional energy data][mdio]
 - 📄 `2021` [Earth Model Building in Real-Time with an Automated Machine Learning Framework – A Midland Basin Example][qearth-realtime]
@@ -25,7 +26,9 @@ Select Publications:
 - 📄 `2020` [Seeing-Ahead-of-the-Bit: A Game Changer Enabled by Machine Learning][qearth-ahead-bit]
 - 📄 `2015` [Deghosting Ultra High Resolution 3D Geo Hazard Data][seismic-broadband]
 
-[seismic-vit-mae3d]: https://arxiv.org/abs/2403.13593
+[vit-seismic-scaling]: https://www.tgs.com/hubfs/2025%20IMAGE%20Preliminary/IMAGE25_How_ViTs_Scale_on_Seismic_Sansal.pdf
+[seismic-vit-mae3d]: https://onepetro.org/SEGAM/proceedings-abstract/IMAGE24/IMAGE24/SEG-2024-4098021/621324
+[seismic-vit-mae3d-preprint]: https://arxiv.org/abs/2403.13593
 [saltnet]: https://library.seg.org/doi/10.1190/tle42060390.1
 [mdio]: https://library.seg.org/doi/10.1190/tle42070465.1
 [qearth-realtime]: https://library.seg.org/doi/10.15530/urtec-2021-5659
