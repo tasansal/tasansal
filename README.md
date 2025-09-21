@@ -18,7 +18,7 @@ Hi there 👋
 
 Select Publications:
 - 📄 `2025` [How ViTs scale on seismic data: a study on model and data trade-offs][vit-seismic-scaling]  (Presented at IMAGE 25 conference, DOI TBD)
-- 📄 `2024` [Encoding the Subsurface in 3D with Seismic][seismic-vit-mae3d], [Preprint][seismic-vit-mae3d-preprint]
+- 📄 `2024` [Encoding the Subsurface in 3D with Seismic][seismic-vit-mae3d], click [here][seismic-vit-mae3d-preprint] for preprint
 - 📄 `2023` [Toward generalized models for machine-learning-assisted salt interpretation in the Gulf of Mexico][saltnet]
 - 📄 `2023` [MDIO: Open-source format for multidimensional energy data][mdio]
 - 📄 `2021` [Earth Model Building in Real-Time with an Automated Machine Learning Framework – A Midland Basin Example][qearth-realtime]
