@@ -44,14 +44,7 @@ Patents:
 [qearth-patent2]: https://patents.google.com/patent/US11699099B2/en
 
 ### Connect with me on:
-<p align="left">
-<a href="https://www.linkedin.com/in/tasansal/" target="_blank">
-<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/social/linkedin.svg" alt="Linkedin" style="vertical-align:top; margin:4px">
-</a>
-<a href="https://twitter.com/tunapedia" target="_blank">
-<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/social/twitter.svg" alt="Twitter" style="vertical-align:top; margin:4px">
-</a>
-</p>
+<p style="text-align: left;"><a href="https://www.linkedin.com/in/tasansal/" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="vertical-align: top; margin: 4px;"></a><a href="https://twitter.com/tunapedia" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" style="vertical-align: top; margin: 4px;"></a></p>
 
 ### GitHub Stats:
 <div align="left">
