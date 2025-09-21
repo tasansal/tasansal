@@ -25,7 +25,7 @@ Select Publications:
 - 📄 `2021` [Novel machine learning workflow for rock property prediction in the geologically complex presalt Santos basin, Brazil][qearth]
 - 📄 `2020` [Seeing-Ahead-of-the-Bit: A Game Changer Enabled by Machine Learning][qearth-ahead-bit]
 - 📄 `2015` [Deghosting Ultra High Resolution 3D Geo Hazard Data][seismic-broadband]
-- 
+
 <a href="https://scholar.google.com/citations?user=JSWspwQAAAAJ&hl=en" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar" style="vertical-align: top; margin: 4px;"></a>
 
 [vit-seismic-scaling]: https://www.tgs.com/hubfs/2025%20IMAGE%20Preliminary/IMAGE25_How_ViTs_Scale_on_Seismic_Sansal.pdf
